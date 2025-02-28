@@ -1,9 +1,9 @@
 .test {
     background-color: hsl(0, 100%, 80%);
-    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
-.test.cooler {
-    font-size: 36px;
+.cooler {
+    font-size: 24px;
 }
 #testid {
     color: #0000ff;
@@ -11,6 +11,5 @@
 }
 #anotherid {
     background-color: rgb(128, 255, 128);
-    font-size: 24px;
     font-weight: bold;
 }
